@@ -1,0 +1,212 @@
+/*
+    A dark color scheme for Chicago Pro
+*/
+
+body {
+    background-color: #111;
+    color: #aaa;
+}
+
+a,
+.comment-metadata a {
+    color: #e4741f;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #dddddd;
+}
+
+pre {
+    background-color: #000;
+    background-color: rgba(0, 0, 0 ,0.7);
+    color: #fff;
+}
+
+#masthead,
+#breadcrumb-list {
+    background-color: #222;
+}
+
+.site-title a,
+.entry-title,
+.entry-title a,
+.comments-title {
+    color: #ddd;
+}
+
+.site-description {
+    color: #ddd;
+}
+
+.site-title a:hover,
+.entry-title a:hover {
+    color: #e4741f;
+}
+
+.social-menu ul a {
+    border-color: #ddd;
+    color: #ddd;
+}
+
+.social-menu ul a:hover {
+    border-color: #e4741f;
+    color: #e4741f;
+}
+
+.content-area {
+    background-color: #222;
+}
+.comment-body,
+#breadcrumb-list span,
+#featured-content .wrapper,
+.content-area,
+.entry-content,
+.entry-summary,
+.widget-title,
+.widget li {
+    border-color: #444;
+}
+
+.cat-links a,
+.tags-links a {
+    background: #111;
+    color: #fff;
+}
+
+.cat-links a:hover,
+.tags-links a:hover {
+    background-color: #e4741f;
+    color: #fff;
+}
+
+.widget a {
+    color: #e4741f;
+}
+
+.widget a:hover {
+    color: #ddd;
+}
+
+.widget-title,
+.widget-title a {
+    color: #ddd;
+}
+
+.widget-title a:hover {
+    color: #e4741f;
+}
+
+.nav-full-width .main-navigation {
+    background-color: #000;
+}
+
+.main-navigation .wrapper {
+    background-color: #000;
+}
+
+.main-navigation a {
+    color: #ddd;
+}
+
+.posts-navigation .wp-pagenavi span.pages {
+    color: #aaa;
+}
+
+.nav-links a,
+.posts-navigation .wp-pagenavi a,
+.posts-navigation .wp-pagenavi span {
+    background-color: #111;
+    color: #fff;
+}
+
+.nav-links a:hover,
+.posts-navigation .wp-pagenavi span.current,
+.posts-navigation .wp-pagenavi a:hover {
+    background-color: #e4741f;
+    color: #fff;
+}
+
+button,
+.button,
+input[type="reset"],
+input[type="submit"],
+input[type="button"],
+#content #infinite-handle span button {
+    background-color: #111;
+}
+
+button:hover,
+button:focus,
+.button:hover,
+.button:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+#content #infinite-handle span button:hover,
+#content #infinite-handle span button:focus {
+    background-color: #e4741f;
+}
+
+#feature-slider {
+    background-color: #222;
+}
+
+#feature-slider .more-link {
+    color: #fff;
+}
+
+#breadcrumb-list a, #breadcrumb-list a span {
+    background-color: #000;
+    color: #fff;
+}
+
+#breadcrumb-list a:hover,
+#breadcrumb-list a:hover span {
+    background-color: #e4741f;
+    color: #fff;
+}
+
+#breadcrumb-list .breadcrumb-current,
+#breadcrumb-list .breadcrumb-current span {
+    background-color: #e4741f;
+    color: #fff;
+}
+
+#promotion-message {
+    background-color: #3a3d41;
+}
+
+#scrollup {
+    background-color: #666;
+    -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow:    0 2px 6px rgba(0, 0, 0, 0.5);
+    box-shadow:         0 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+#scrollup:hover {
+    background-color: #e4741f;
+}
+
+#featured-content .wrapper,
+#supplementary,
+#supplementary .widget-area {
+    background-color: #222;
+}
+
+#promotion-message,
+.site-info {
+    background-color: #000;
+}
+
+#promotion-message a {
+    color: #e4741f;
+}
+
+.site-info a {
+    color: #ddd;
+}

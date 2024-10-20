@@ -1,0 +1,133 @@
+/*
+    A light color scheme for Chicago Pro
+*/
+
+body {
+    background-color: #f2f2f2;
+    color: #404040;
+}
+
+a,
+.comment-metadata a {
+    color: #21759b;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #404040;
+}
+
+.site-title a,
+.entry-title,
+.entry-title a,
+.comments-title {
+    color: #404040;
+}
+
+.site-description {
+    color: #7b7b7b;
+}
+
+.site-title a:hover,
+.entry-title a:hover {
+    color: #21759b;
+}
+
+.social-menu ul a {
+    border-color: #7b7b7b;
+    color: #7b7b7b;
+}
+
+.social-menu ul a:hover {
+    border-color: #21759b;
+    color: #21759b;
+}
+
+.cat-links a:hover,
+.tags-links a:hover {
+    background-color: #212121;
+    color: #fff;
+}
+
+.widget-title,
+.widget-title a {
+    color: #404040;
+}
+
+.widget a {
+    color: #21759b;
+}
+
+.widget-title a:hover,
+.widget a:hover {
+    color: #404040;
+}
+
+.nav-full-width .main-navigation {
+    background-color: #3a3d41;
+}
+
+.main-navigation .wrapper {
+    background-color: #3a3d41;
+}
+
+.posts-navigation .wp-pagenavi span.pages {
+    color: #404040;
+}
+
+.nav-links a,
+.posts-navigation .wp-pagenavi a,
+.posts-navigation .wp-pagenavi span {
+    background-color: #f2f2f2;
+    color: #21759b;
+}
+
+.nav-links a:hover,
+.posts-navigation .wp-pagenavi span.current,
+.posts-navigation .wp-pagenavi a:hover {
+    background-color: #404040;
+}
+
+button,
+.button,
+input[type="reset"],
+input[type="submit"],
+input[type="button"],
+#content #infinite-handle span button {
+    background-color: #212121;
+}
+
+button:hover,
+button:focus,
+.button:hover,
+.button:focus,
+input[type="reset"]:hover,
+input[type="reset"]:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+input[type="button"]:hover,
+input[type="button"]:focus,
+#content #infinite-handle span button:hover,
+#content #infinite-handle span button:focus {
+    background-color: #21759b;
+}
+
+#feature-slider .more-link {
+    color: #fff;
+}
+
+#promotion-message {
+    background-color: #3a3d41;
+}
+
+#scrollup {
+    background-color: #666;
+    -webkit-box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow:    0 2px 6px rgba(0, 0, 0, 0.5);
+    box-shadow:         0 2px 6px rgba(0, 0, 0, 0.5);
+}
+
+.site-info {
+    background-color: #000;
+}
