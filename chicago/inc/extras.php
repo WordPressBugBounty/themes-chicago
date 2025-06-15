@@ -411,7 +411,7 @@ if ( ! function_exists( 'chicago_scrollup' ) ) {
 			$disable_scrollup = get_theme_mod( 'disable_scrollup', chicago_get_default_theme_options( 'disable_scrollup' ) );
 
 			if ( '1' != $disable_scrollup ) {
-				$chicago_scrollup =  '<a href="#masthead" id="scrollup" class="genericon"><span class="screen-reader-text">' . __( 'Scroll Up', 'chicago' ) . '</span></a>' ;
+				$chicago_scrollup =  '<a href="#masthead" id="scrollup" class="font-awesome"><span class="screen-reader-text">' . __( 'Scroll Up', 'chicago' ) . '</span></a>' ;
 			}
 
 			set_transient( 'chicago_scrollup', $chicago_scrollup, 86940 );
@@ -478,7 +478,7 @@ function chicago_alter_home( $query ){
 		$cats = get_theme_mod( 'front_page_category', chicago_get_default_theme_options( 'front_page_category' ) );
 
 	    $post_list	= array();	// list of valid post ids
-	    
+
 	    if ( is_array( $cats ) && !in_array( '0', $cats ) ) {
 			$query->query_vars['category__in'] =  $cats;
 		}

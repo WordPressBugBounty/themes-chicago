@@ -1,8 +1,8 @@
 === Chicago ===
 Contributors: Catch Themes
 Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, blog
-Requires at least: 5.6
-Tested up to: 6.4
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -123,6 +123,12 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
 
+= 2.0 (Released: June 15, 2025) =
+* Added: Discord, Rss, Telegram, Phone, Xing, Twitter X, Titok, Bluesky, Threads icons and more
+* Removed: Polldaddy icon
+* Updated: Social icons style
+* Updated: WordPress 6.8 ready
+
 = 1.6.2 (Released: February 16, 2024) ==
 * Updated: WordPress 6.4 ready
 
@@ -242,7 +248,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Chicago WordPress Theme, Copyright 2012-2023 Catchthemes.com
+Chicago WordPress Theme, Copyright 2012-2025 Catchthemes.com
 Chicago is distributed under the terms of the GNU GPL
 
 == Resources ==
@@ -260,9 +266,11 @@ Chicago is distributed under the terms of the GNU GPL
 	8. All other images are self shot image by (CatchThemes.com)
 
 * Font Icons
-    Genericons by Automattic, Inc.
-    Genericons is Licensed under the GPL, version 2 or later
-    http://genericons.com/
+   	Font Awesome Free is free, open source, and GPL friendly.
+    Copyright (c) 2024 Fonticons, Inc. (https://fontawesome.com)
+    with Reserved Font Name: "Font Awesome".
+    Fonts: SIL OFL 1.1 License
+    https://fontawesome.comm/
 
 * JS Files
     jQuery Cycle 2 is Licensed under the MIT and GPL licenses

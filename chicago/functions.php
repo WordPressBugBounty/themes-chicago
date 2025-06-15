@@ -214,7 +214,8 @@ function chicago_scripts() {
 	// Theme block stylesheet.
 	wp_enqueue_style( 'chicago-block-style', get_theme_file_uri( 'css/blocks.css' ), array( 'chicago-style' ), filemtime( get_template_directory() . '/css/blocks.css' ) );
 
-	wp_enqueue_style( 'genericons', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'css/genericons/genericons.css', false, '3.3' );
+	// Font Awesome
+	wp_enqueue_style('font-awesome', trailingslashit(esc_url(get_template_directory_uri())) . 'css/font-awesome/css/all.min.css', array(), '6.7.2', 'all');
 
 	/**
 	 * Enqueue the styles for the current color scheme for Chicago.
