@@ -2,7 +2,7 @@
 Contributors: Catch Themes
 Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, footer-widgets, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, blog
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -123,13 +123,16 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
 
+= 2.1 (Released: December 14, 2025) =
+* Updated: WordPress 6.9 ready
+
 = 2.0 (Released: June 15, 2025) =
-* Added: Discord, Rss, Telegram, Phone, Xing, Twitter X, Titok, Bluesky, Threads icons and more
+* Added: Discord, RSS, Telegram, Phone, Xing, Twitter X, Titok, Bluesky, Threads icons and more
 * Removed: Polldaddy icon
 * Updated: Social icons style
 * Updated: WordPress 6.8 ready
 
-= 1.6.2 (Released: February 16, 2024) ==
+= 1.6.2 (Released: February 16, 2024) =
 * Updated: WordPress 6.4 ready
 
 = 1.6.1 (Released: August 24, 2022) =
